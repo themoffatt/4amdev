@@ -19,7 +19,7 @@ export default function App() {
         {/* Responsive Hero Image Container */}
         <div className="flex max-w-md mx-auto group w-full justify-center">
           <img
-            src="/src/assets/hero.png"
+            src="/hero.png"
             alt="Production Ready Interface"
             className="w-full h-auto rounded-2xl shadow-2xl border border-white/10"
           />
