@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Any of your custom CSS goes below this line */
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: #05070A;
+}
