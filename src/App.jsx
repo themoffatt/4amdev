@@ -21,7 +21,7 @@ export default function App() {
           <img
             src="/hero.png"
             alt="Production Ready Interface"
-            className="w-full h-auto rounded-2xl shadow-2xl border border-white/10"
+            className="w-full h-auto "
           />
         </div>
 
