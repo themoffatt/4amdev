@@ -28,7 +28,7 @@ export default function App() {
         <h1 className="text-4xl md:text-8xl font-black mb-6 leading-[1.2] md:leading-[1.1] tracking-tight text-white">
           Your MVP works. <br className="block" />
           <span className="text-slate-500 text-3xl md:text-7xl italic">Now let's make it </span>
-          <span className="ml-2 underline decoration-blue-600 underline-offset-4 md:underline-offset-8 text-3xl md:text-7xl">Scale.</span>
+          <span className="underline decoration-blue-600 underline-offset-4 md:underline-offset-8 text-3xl md:text-7xl">Scale.</span>
         </h1>
 
         <p className="text-lg md:text-2xl text-slate-400 mb-10 max-w-2xl mx-auto leading-relaxed">
